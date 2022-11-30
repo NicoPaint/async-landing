@@ -1,0 +1,19 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "just practicing...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoPaint/async-landing.git"
+  },
+  "author": "Nicolas Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoPaint/async-landing/issues"
+  },
+  "homepage": "https://github.com/NicoPaint/async-landing#readme"
+}
